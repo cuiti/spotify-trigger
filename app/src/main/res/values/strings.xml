@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpotifyTrigger</string>
+    <string name="open_spotify">Open Spotify when headphones are plugged in</string>
+</resources>
